@@ -1,0 +1,57 @@
+.doctors {
+  margin-left: 258px;
+}
+
+.photos {
+    margin-top: 76px;
+  display: flex;
+  justify-content: space-between 30px;
+}
+
+.column-1 {
+  width: 362px;
+}
+
+.text {
+    display: block;
+  }
+
+p1 {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #31396b;
+}
+
+p2 {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+}
+
+.more {
+    margin-top: 15px;
+}
+
+.column-2 {
+  width: 294px;
+  margin-left: 30px;
+  display: block;
+}
+
+.column-3 {
+  width: 362px;
+  margin-left: 30px;
+  display: block;
+}
+
+.tail {
+    margin-top: 60px;
+}

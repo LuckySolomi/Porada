@@ -1,0 +1,41 @@
+.main_page {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+}
+
+.main_page p {
+  font-family: Montserrat;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.main_page .title {
+  color: #0dc0a5;
+}
+
+.menu .closed {
+  margin-top: 5px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000000;
+}
+
+nav a:hover,
+nav a:active {
+  color: #0dc0a5;
+}
+
+.main_page li {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}

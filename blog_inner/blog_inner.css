@@ -1,0 +1,36 @@
+.bl_in {
+  display: flex;
+  width: 67rem;
+}
+
+.bl_in,
+p {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+}
+
+.back {
+  padding-top: 4rem;
+  margin-left: 255px;
+}
+
+.number {
+  font-family: Montserrat;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #c4c4c4;
+  margin-bottom: -27px;
+  position: relative;
+}
+
+.space {
+  margin-left: 4.25rem;
+}

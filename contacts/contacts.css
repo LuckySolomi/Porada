@@ -1,0 +1,39 @@
+.contacts_page {
+    display: flex;
+}
+
+.contacts {
+  display: flex;
+}
+
+.contacts,
+p {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+  margin-top: 0;
+}
+
+.bigger {
+  font-weight: 700;
+  line-height: 26px;
+  margin: 0;
+}
+
+.address {
+    margin-left: 68px;
+}
+
+form {
+  margin-left: 113px;
+  margin-top: 65px;
+}
+
+.map {
+  margin-top: 84px;
+}
+

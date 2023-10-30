@@ -1,0 +1,94 @@
+.doctors_inner {
+  margin-left: 254px;
+}
+
+.onset {
+  display: flex;
+}
+
+.name {
+  margin-left: 31px;
+}
+
+.name p {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+  margin: 0;
+}
+
+.appointment {
+  margin-top: 33px;
+  width: 240px;
+  height: 40px;
+  top: 373px;
+  left: 539px;
+  border-radius: 25px;
+  border: none;
+  background: linear-gradient(92.05deg, #31396b 0%, #01edb9 100%);
+  /* text font */
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffff;
+}
+
+.first {
+  display: flex;
+  margin-top: 40px;
+}
+
+.title-4 p {
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #0dc0a5;
+  margin: 0;
+}
+
+.resume {
+  width: 751px;
+  font-family: Montserrat;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left: 31px;
+}
+
+.resume h3 {
+  margin: 0;
+}
+
+.aditional {
+  margin-left: 86px;
+}
+
+.dot li {
+  font-weight: 500;
+  list-style-type: disc;
+}
+
+.second {
+  display: flex;
+  margin-top: 40px;
+}
+
+.third {
+  display: flex;
+  margin-top: 40px;
+}
+
+.back-1 {
+  margin-left: 355px;
+}
